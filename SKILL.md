@@ -7,6 +7,9 @@ metadata:
     homepage: https://github.com/openclaw/clawhub
     skillKey: frontend-doctor
     always: false
+    requires:
+      bins:
+        - node
 ---
 
 # Frontend Doctor
